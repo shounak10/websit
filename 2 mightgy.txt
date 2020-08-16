@@ -1,0 +1,29 @@
+< DOCTYPE html>
+<html lang = "en">
+<head>
+        <meta charset = "UTF-8">
+        <Title>MIGHTY MIND </Title>
+     <link href ="style.css" rel ="stylesheet" type ="text/css">
+     
+ </head> 
+ <body>
+ <ul class="menu">
+    <li><a href="#"><img class ="logo" src=image/MIGHTY.jpg></a></li>
+     <li><a href="#">HOME</a></li>
+     <li><a href="#">COURESES</a></li>
+     <li><a href="#">WHY MIGHTY MIND</a></li>
+     <li><a href="#">ABOUT US </a></li>
+     <li><a href="#">CONTACT US</a></li>
+
+     
+     
+     
+     
+     
+     
+     </ul>
+
+
+
+ </body >
+ </html>
